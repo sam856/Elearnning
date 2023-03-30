@@ -1,0 +1,51 @@
+.TableContaier {
+    display: block;
+    flex-direction: column;
+    gap: 40px;
+    padding: 2rem;
+    left: 200px;
+    position: absolute;
+    size: 460PX;
+    top: 180PX;
+  }
+  
+  table {
+    width: 1000PX;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+
+
+  }
+  
+  th,
+  td {
+    border:  5PX solid #FFFFFF;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+ 
+     margin: 40PX;
+     padding: 9px;
+      text-align: left;
+      color: #FFFFFF;
+      font-size: 28px;
+}
+select
+ {
+
+   
+    margin: 0;
+    padding: 15px;
+    width: 200px;
+    list-style: none;
+    background-color:#A8ABB9;
+    display: flex;
+    
+   
+
+
+}
+
+  
+  

@@ -1,0 +1,33 @@
+.Top_nav
+{
+    width: 1300px;
+    height:100px;
+    left: 314px;
+    top: 0px;
+    background: #000000;
+
+}
+.Top_nav .Logo{
+ color: white;
+ padding: 20PX   30PX ;
+
+
+}
+.Search{
+  
+    
+position:absolute;
+width: 400px;
+margin-left: 400px;
+top: 39px;
+height: 40px;
+text-align: center;
+display: grid;
+
+
+
+}
+::placeholder {
+    text-align: center; 
+    font-size: large;
+ }
