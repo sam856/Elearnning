@@ -1,0 +1,50 @@
+.navbar {
+    background-color:black;
+    width: 212px;
+    height: 1080px;
+    position: fixed;
+  
+    
+  }
+  .SidebarList{
+   HEIGHT: auto;
+   WIDTH:100%;
+   padding: 15px;
+   font-size: larger;
+   justify-content: left;
+   
+  }
+  .SidebarList   li{
+  width : 100%;
+  height: 70px;
+  display: grid;
+  flex-direction: row;
+  justify-content:center;
+  color: white;
+  text-decoration: none;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  
+  .IconStyle{
+  position: absolute;
+   place-items: center;
+   color: white;
+   left: 30px;
+   
+
+  }
+  .SidebarList  li a{
+    text-decoration: none;
+    color:white;
+  }
+
+  .SidebarList  li a:hover{
+    cursor: pointer;
+    color: #A8ABB9;
+
+   
+  }
+
+  
+ 

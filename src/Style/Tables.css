@@ -1,0 +1,61 @@
+.TableContaier {
+    display: block;
+    flex-direction: column;
+    gap: 30px;
+    padding: 2rem;
+    left: 200px;
+    position: absolute;
+    size: 460PX;
+    top: 180PX;
+  }
+  
+  table {
+    width: 900PX;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+
+
+  }
+  
+  th,
+  td {
+    border:  3PX solid #FFFFFF;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    justify-content: center;
+     padding: 8px;
+      text-align: center;
+      color: #FFFFFF;
+      font-size: 23px;
+      margin:100px;
+      display: table-cell;
+}
+select
+ {
+
+   
+  margin-left: 20px;
+  padding: 15px;
+    width: 200px;
+    list-style: none;
+    background-color:#A8ABB9;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+   
+
+
+}
+button{
+ margin-left: 30px;
+ padding: 8px;
+ background-color: #A8ABB9;
+ color: black;
+ border: none;
+
+}
+
+  
+  
